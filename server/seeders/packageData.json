@@ -1,0 +1,33 @@
+[
+    {
+      "generalTitle": "Capital Blooms",
+      "generalDescription": "3 day trip departing from Sydney to Canberra then back to Sydney. Along this guided tour you will visit various towns and attractions",
+      "image": "/images/capitalblooms.jpg"
+    },
+    {
+      "generalTitle":"Kakadu, Katherine and Litchfield Explorer",
+      "generalDescription": "4 day trip departing Darwin, includes 3 breakfasts, 3 lunches and 2 dinners. Will visit Litchfield National Park, Kakadu National Park and Katherine Hot Springs",
+      "image": "/images/kakadutrip.jpg"
+    },
+    {
+      "generalTitle":"Kings Canyon and Uluru",
+      "generalDescription": "3 day trip, experience the outback of Australia visiting the Uluru-Kata-Tjuta cultural centre, learn about the natural and geographical history of the Land. Visit the Uluru-Kata Tjuta National Park.",
+      "image": "/images/ulurutrip.jpg"
+    },
+    {
+      "generalTitle":"Walls of Jerusalem Winter Experience",
+      "generalDescription": "4 day trip visiting the Tasmanian Wild Dog Creek base camp at Jerusalem National Park. Great opporunities to trek through the Tasmanian alphine wilderness.",
+      "image": "/images/tasmaniatrip.jpg"
+    },
+    {
+      "generalTitle":"Larapinta Trai",
+      "generalDescription": "3 day trip visiting the Larapinta Trail in Alice Springs. Stay in a semi-permanent camps and enjoy the walks along the Larapinta Trail.",
+      "image": "/images/larapintatrip.jpg"
+    },
+    {
+      "generalTitle":"Port Stephens From Sydney",
+      "generalDescription": "4 day trip from Sydney to Port Stephens. This is a round trip where you will travel via private transport travelling to the Blue Mountains, Hunter Valley and Port Stephens then back down to Sydney.",
+      "image": "/images/portstephenstrip.jpg"
+    }
+]
+  
